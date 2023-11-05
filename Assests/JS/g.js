@@ -15,7 +15,7 @@ async function addGames() {
                 <img src="${cdn}/Icons/${game.game.replace(
         /[.\s]/g,
         ""
-      )}.webp" loading="lazy" onerror="this.src='./Assests/Imgs/NoIcon.png'"/>
+      )}.png" loading="lazy" onerror="this.src='./Assests/Imgs/NoIcon.png'"/>
                 <h1>${game.game}</h1>`;
       document.querySelector(".Projects-Container").appendChild(project);
 
