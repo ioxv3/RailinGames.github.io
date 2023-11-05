@@ -19,7 +19,7 @@ Some game developers don't like to have their games on random game-site platform
 Email: [**Cartxrr@proton.me**](mailto:Cartxrr@proton.me)
 
 # 💻 Self Hosting
-You can now **self-host** Railin' using [**Vercel**](https://vercel.com), [**Replit**](https://replit.com), Your Own Server, etc!
+You can now **self-host** Railin' using [**Vercel**](https://vercel.com), [**Replit**](https://replit.com), Your Own Server, etc!  
 
 > **This wont give you the games as you have to host that too.** <br>
 *Games Repo*: [https://github.com/RailinGames/files](https://github.com/RailinGames/files#-deploy-buttons). <br>

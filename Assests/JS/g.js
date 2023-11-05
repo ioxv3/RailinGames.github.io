@@ -60,3 +60,5 @@ document.getElementById("GameSearchBar").addEventListener("input", () => {
 });
 
 addGames();
+
+// dont mind this
