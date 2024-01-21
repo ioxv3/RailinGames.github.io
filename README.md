@@ -42,6 +42,8 @@ If you host the game files you can change the CDN in the Hosting Folder in your 
 
 I Love you All! ❤
 
+hi
+
 **Please consider giving this repo a star 🌟**
 
 + ## 🤓 License
